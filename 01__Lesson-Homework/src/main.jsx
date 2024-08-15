@@ -6,7 +6,7 @@ const Heading = (props) => {
  }
 const Description = (props) => {
   const userName = prompt('What is your name?', '')
-  const style = {fontStyle:props.fontStyle}
+  // const style = {fontStyle:props.fontStyle}
   return <h2 style={{fontStyle:props.fontStyle}}>{userName}{props.text}</h2>
   }
 
