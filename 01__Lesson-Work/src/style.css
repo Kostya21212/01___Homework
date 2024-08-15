@@ -1,0 +1,12 @@
+.heading__1{
+    color: green;
+};
+.heading__2{
+    color: rgbw(119, 0, 128);
+};
+.heading__3{
+    color: rgb(128, 0, 0);
+};
+.heading__4{
+    color: rgb(15, 0, 128);
+}
