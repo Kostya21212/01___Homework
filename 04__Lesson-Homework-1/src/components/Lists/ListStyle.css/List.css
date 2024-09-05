@@ -1,0 +1,21 @@
+.toDoListComponent{
+    border: 2px solid black;
+    min-width: 350px;
+
+}
+.InProgressListComponent{
+     border: 2px solid black;
+    min-width: 350px;
+    background-color: yellow;
+}
+.DoneListComponent{
+     border: 2px solid black;
+    min-width: 350px;
+    background-color: chartreuse;
+}
+.main__block{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
